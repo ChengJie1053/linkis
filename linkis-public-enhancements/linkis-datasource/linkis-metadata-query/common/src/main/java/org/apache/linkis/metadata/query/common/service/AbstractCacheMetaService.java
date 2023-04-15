@@ -17,7 +17,7 @@
 
 package org.apache.linkis.metadata.query.common.service;
 
-import org.apache.linkis.datasourcemanager.common.util.json.Json;
+// import org.apache.linkis.datasourcemanager.common.util.json.Json;
 import org.apache.linkis.metadata.query.common.cache.CacheConfiguration;
 import org.apache.linkis.metadata.query.common.cache.CacheManager;
 import org.apache.linkis.metadata.query.common.cache.ConnCacheManager;
