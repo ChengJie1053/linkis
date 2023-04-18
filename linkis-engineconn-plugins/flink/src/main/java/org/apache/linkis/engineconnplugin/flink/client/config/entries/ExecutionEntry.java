@@ -163,14 +163,14 @@ public class ExecutionEntry extends ConfigEntry {
       builder.inBatchMode();
     }
 
-    final String planner =
-        properties.getOptionalString(EXECUTION_PLANNER).orElse(EXECUTION_PLANNER_VALUE_OLD);
-
-    if (planner.equals(EXECUTION_PLANNER_VALUE_OLD)) {
-      builder.useOldPlanner();
-    } else if (planner.equals(EXECUTION_PLANNER_VALUE_BLINK)) {
-      builder.useBlinkPlanner();
-    }
+//    final String planner =
+//        properties.getOptionalString(EXECUTION_PLANNER).orElse(EXECUTION_PLANNER_VALUE_OLD);
+//
+//    if (planner.equals(EXECUTION_PLANNER_VALUE_OLD)) {
+//      builder.useOldPlanner();
+//    } else if (planner.equals(EXECUTION_PLANNER_VALUE_BLINK)) {
+//      builder.useBlinkPlanner();
+//    }
 
     return builder.build();
   }
