@@ -71,6 +71,7 @@ classgraph-4.1.7.jar
 classgraph-4.8.83.jar
 classmate-1.5.1.jar
 clickhouse-jdbc-0.4.6.jar
+client-3.0.0.jar
 commons-beanutils-1.9.4.jar
 commons-cli-1.3.1.jar
 commons-crypto-1.0.0.jar
@@ -406,6 +407,7 @@ jsr305-3.0.1.jar
 jsr305-3.0.2.jar
 jsr311-api-1.1.1.jar
 jta-1.1.jar
+jts-core-1.16.1.jar
 jul-to-slf4j-1.7.30.jar
 jul-to-slf4j-1.7.36.jar
 kafka-clients-2.5.1.jar
@@ -666,6 +668,7 @@ snakeyaml-1.33.jar
 snappy-java-1.1.4.jar
 snappy-java-1.1.7.7.jar
 snappy-java-1.1.8.2.jar
+spark-doris-connector-3.2_2.12-1.2.0.jar
 spark-redis_2.12-2.6.0.jar
 spring-aop-5.2.23.RELEASE.jar
 spring-aop-5.3.27.jar
